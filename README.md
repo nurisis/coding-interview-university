@@ -842,15 +842,16 @@ if you can identify the runtime complexity of different algorithms. It's a super
     - [ ] Which algorithms can be used on linked lists? Which on arrays? Which on both?
         - I wouldn't recommend sorting a linked list, but merge sort is doable.
         - [Merge Sort For Linked List](http://www.geeksforgeeks.org/merge-sort-for-linked-list/)
+        - [Sorting Algorithms Animations](https://www.toptal.com/developers/sorting-algorithms)
 
 - For heapsort, see Heap data structure above. Heap sort is great, but not stable
 
-- [ ] [Sedgewick - Mergesort (5 videos)](https://www.coursera.org/learn/algorithms-part1/home/week/3)
-    - [ ] [1. Mergesort](https://www.coursera.org/learn/algorithms-part1/lecture/ARWDq/mergesort)
-    - [ ] [2. Bottom up Mergesort](https://www.coursera.org/learn/algorithms-part1/lecture/PWNEl/bottom-up-mergesort)
-    - [ ] [3. Sorting Complexity](https://www.coursera.org/learn/algorithms-part1/lecture/xAltF/sorting-complexity)
-    - [ ] [4. Comparators](https://www.coursera.org/learn/algorithms-part1/lecture/9FYhS/comparators)
-    - [ ] [5. Stability](https://www.coursera.org/learn/algorithms-part1/lecture/pvvLZ/stability)
+- [x] [Sedgewick - Mergesort (5 videos)](https://www.coursera.org/learn/algorithms-part1/home/week/3)
+    - [x] [1. Mergesort](https://www.coursera.org/learn/algorithms-part1/lecture/ARWDq/mergesort)
+    - [x] [2. Bottom up Mergesort](https://www.coursera.org/learn/algorithms-part1/lecture/PWNEl/bottom-up-mergesort)
+    - [x] [3. Sorting Complexity](https://www.coursera.org/learn/algorithms-part1/lecture/xAltF/sorting-complexity)
+    - [x] [4. Comparators](https://www.coursera.org/learn/algorithms-part1/lecture/9FYhS/comparators)
+    - [x] [5. Stability](https://www.coursera.org/learn/algorithms-part1/lecture/pvvLZ/stability)
 
 - [ ] [Sedgewick - Quicksort (4 videos)](https://www.coursera.org/learn/algorithms-part1/home/week/3)
     - [ ] [1. Quicksort](https://www.coursera.org/learn/algorithms-part1/lecture/vjvnC/quicksort)
